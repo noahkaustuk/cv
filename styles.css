@@ -1,0 +1,124 @@
+body{
+    background-color: #554994;
+    margin: auto;
+
+}
+
+.first-image{
+    max-width: 10rem;
+}
+#navbar{
+    padding: 2rem 3rem;
+    
+    
+}
+.nav-link{
+    color: #fff;
+}
+    
+nav ul li{
+
+        padding : 0 10px 0 10px;
+        
+}
+
+
+.first-heading{
+    
+    background-color: #F675A8;
+    color: #fff;
+    padding: 2rem 4rem;
+    width: 40rem;
+    border: 3px solid #fff;
+    margin:0 8rem;
+}
+
+.about-me{
+    background-color: #fff;
+    color: black;
+    padding: 6rem 4rem;
+    width: 80rem;
+    text-align: center;
+    line-height: 2rem;
+    margin:auto;
+    
+}
+
+.icons{
+    color: #F675A8;
+}
+
+#skill{
+    background-color: #fff;
+    color: black;
+    padding: 6rem 4rem;
+    width: 80rem;
+    text-align: center;
+    line-height: 0.5rem;
+    margin:auto;
+}
+
+/* #slideshow{
+    background-color: black;
+    
+    padding: 2rem 4rem;
+    width: 80rem;
+    margin:auto;
+
+} */
+
+.certificates{
+    background-color:#F675A8 ;
+    width: 85%;
+    margin:auto;
+    text-align: center;
+    padding: 6rem 4rem;
+
+}
+.cf1{
+    width: 60rem;
+    
+    
+}
+.footer{
+    background-color:#fff ;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    
+}
+.footer-icon{
+    padding-left: 2rem;
+}
+
+@media (max-width: 900px) {
+
+    .first-heading{
+
+
+        width: 400px;
+        
+    }
+    .about-me{
+        width: 60rem;
+        margin: auto;
+        
+    }
+    #skill{
+        width: 60rem;
+        margin: auto;
+    }
+    .certificates {
+        width: 60rem;
+        margin: auto;
+    }
+    .cf1{
+        width: 50rem;
+    }
+    .footer{
+        width: 60rem;
+        margin: auto;
+    }
+    
+
+}
