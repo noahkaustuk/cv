@@ -4,6 +4,11 @@ body{
 
 }
 
+
+#title{
+    margin-bottom: 30rem;
+}
+
 .first-image{
     max-width: 10rem;
 }
@@ -21,7 +26,9 @@ nav ul li{
         padding : 0 10px 0 10px;
         
 }
-
+hr {
+    border: 5px solid #fff;
+  }
 
 .first-heading{
     
@@ -36,7 +43,7 @@ nav ul li{
 .about-me{
     background-color: #fff;
     color: black;
-    padding: 6rem 4rem;
+    padding: 10rem 4rem;
     width: 80rem;
     text-align: center;
     line-height: 2rem;
@@ -48,10 +55,16 @@ nav ul li{
     color: #F675A8;
 }
 
+
+.little-headings{
+    color: #F675A8
+}
+
+
 #skill{
     background-color: #fff;
     color: black;
-    padding: 6rem 4rem;
+    padding: 10rem 9rem;
     width: 80rem;
     text-align: center;
     line-height: 0.5rem;
@@ -68,7 +81,7 @@ nav ul li{
 } */
 
 .certificates{
-    background-color:#F675A8 ;
+    background-color:#fff ;
     width: 85%;
     margin:auto;
     text-align: center;
@@ -77,6 +90,8 @@ nav ul li{
 }
 .cf1{
     width: 60rem;
+    margin: 2rem 2rem;
+    border:5px solid #F675A8;
     
     
 }
@@ -85,13 +100,14 @@ nav ul li{
     width: 85%;
     text-align: center;
     margin: auto;
+    padding: 2rem 2rem;
     
 }
 .footer-icon{
     padding-left: 2rem;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 640px) {
 
     .first-heading{
 
@@ -120,5 +136,8 @@ nav ul li{
         margin: auto;
     }
     
-
+    hr{
+        width: 960px;
+        margin: auto;
+    }
 }
