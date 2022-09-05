@@ -53,6 +53,7 @@ hr {
 
 .icons{
     color: #F675A8;
+    padding-bottom: 2px;
 }
 
 
@@ -71,30 +72,35 @@ hr {
     margin:auto;
 }
 
-/* #slideshow{
-    background-color: black;
+#carousel{
+    background-color: #554994;
+    margin: auto;
+    width: 100%;
+    text-align: center;
     
-    padding: 2rem 4rem;
-    width: 80rem;
-    margin:auto;
+}
 
-} */
+.testimonials-image{
+    width: 60rem;
+}
 
-.certificates{
+.projects{
     background-color:#fff ;
+    color: #F675A8;
     width: 85%;
     margin:auto;
     text-align: center;
     padding: 6rem 4rem;
 
 }
-.cf1{
-    width: 60rem;
-    margin: 2rem 2rem;
-    border:5px solid #F675A8;
-    
-    
+
+.project-img{
+    width: 20rem;
+    /* border: 5px solid #554994; */
+
 }
+
+
 .footer{
     background-color:#fff ;
     width: 85%;
@@ -124,7 +130,7 @@ hr {
         width: 60rem;
         margin: auto;
     }
-    .certificates {
+    .projects {
         width: 60rem;
         margin: auto;
     }
@@ -140,4 +146,9 @@ hr {
         width: 960px;
         margin: auto;
     }
+    .icons{
+        
+        padding-bottom: 2px;
+    }
+    
 }
