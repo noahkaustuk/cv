@@ -150,5 +150,13 @@ hr {
         
         padding-bottom: 2px;
     }
+    .projects{
+        width: 60rem;
+        margin: auto;
+    }
+    #carousel{
+        width: 60rem;
+        margin: auto;
+    }
     
 }
