@@ -113,37 +113,38 @@ hr {
     padding-left: 2rem;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
 
     .first-heading{
 
 
-        width: 400px;
+        width: 300px;
         
     }
     .about-me{
-        width: 60rem;
+        width: 500px;
         margin: auto;
         
     }
     #skill{
-        width: 60rem;
+        width: 500px;
         margin: auto;
     }
     .projects {
-        width: 60rem;
+        width: 500px;
         margin: auto;
     }
     .cf1{
-        width: 50rem;
+        width: 400px;
+        padding: auto;
     }
     .footer{
-        width: 60rem;
+        width: 500px;
         margin: auto;
     }
     
     hr{
-        width: 960px;
+        width: 500px;
         margin: auto;
     }
     .icons{
@@ -151,11 +152,11 @@ hr {
         padding-bottom: 2px;
     }
     .projects{
-        width: 60rem;
+        width: 500px;
         margin: auto;
     }
     #carousel{
-        width: 60rem;
+        width: 500px;
         margin: auto;
     }
     
