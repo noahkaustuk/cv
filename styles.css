@@ -114,12 +114,16 @@ hr {
 }
 
 @media (max-width: 1024px) {
+.navbar{
+        width: 500px; 
+        margin: auto;
+    }
 
     .first-heading{
 
 
         width: 300px;
-        
+        margin: auto;
     }
     .about-me{
         width: 500px;
