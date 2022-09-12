@@ -118,33 +118,33 @@ hr {
     .first-heading{
 
 
-        width: 300px;
+        width: 200px;
         
     }
     .about-me{
-        width: 500px;
+        width: 400px;
         margin: auto;
         
     }
     #skill{
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     .projects {
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     .cf1{
-        width: 400px;
+        width: 300px;
         padding: auto;
     }
     .footer{
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     
     hr{
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     .icons{
@@ -152,11 +152,11 @@ hr {
         padding-bottom: 2px;
     }
     .projects{
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     #carousel{
-        width: 500px;
+        width: 400px;
         margin: auto;
     }
     
